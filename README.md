@@ -1,2 +1,2 @@
-# IS324--Python-
+# IS324-Python-Application Programming
 لابات بايثون نال324 والبروجكت
