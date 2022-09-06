@@ -1,0 +1,8 @@
+Wallet Number, DateTime, Balance, Wallet Type, Student Id, First Name, Last Name, Password, Email, Phone Number
+4171624784, 18/05/2022-08:25:34, 1000.0, Student, 2222222222, Ali, Khalid, 12345678, uhi@ksu.edu.sa, 0577777777
+6812331111, 18/05/2022-08:32:44, 1000.0, Student, 1111111111, Fahad, Ali, 1231234, fa@ksu.edu.sa, 0533333333
+Wallet Number, DateTime, Balance, Wallet Type, Entity Name
+4939190627, 18/05/2022-08:35:55, 0.0, KSU, Bookstore
+5809847191, 18/05/2022-08:36:12, 0.0, KSU, Housing
+Admin Id, Admin First Name, Admin Last Name, Password, Email, Phone Number
+1234567890, Ibrahim, Alkhudair, 123123, admin@ksu.edu.sa, 0548406969
